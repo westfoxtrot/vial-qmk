@@ -8,5 +8,5 @@
 #define VIAL_UNLOCK_COMBO_COLS { 6, 4 }
 
 // features below are intended to reduce size of final firmware
-#define DYNAMIC_KEYMAP_LAYER_COUNT 2
+#define DYNAMIC_KEYMAP_LAYER_COUNT 3
 #define VIAL_COMBO_ENTRIES 4
